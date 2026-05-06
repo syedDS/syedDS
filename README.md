@@ -4,7 +4,7 @@ Author | Builder | Security Architect
 
 I build **hands-on security labs and tooling** that model how modern systems actually fail  CI/CD abuse, cloud misconfigurations, dependency poisoning, and autonomous agent misuse. My work focuses on turning abstract risks into reproducible attack paths and defensible controls.
 
-I am also leading OWASP and CSA effort in securing AI Supply Chain Security with project including Agentic apps top 10 2026, LLM top 10 2026 , FinbotCTF ,State of agentic security, .Practical guide for Secure MCP server , Agentic AI IAM Management(CSA).
+
 
 ---
 
@@ -57,7 +57,7 @@ Artifact signing and verification experiments using **Cosign**, focused on trust
 - OWASP GenAI Supply Chain Project – Co-Lead  
 - CSA Agentic AI Initiative – Contributor  
 - Security workshops, live demos, and conference talks
-
+I am also leading OWASP and CSA effort in securing AI Supply Chain Security with project including Agentic apps top 10 2026, LLM top 10 2026 , FinbotCTF ,State of agentic security, .Practical guide for Secure MCP server , Agentic AI IAM Management(CSA).
 ---
 
 ### Tooling & Domains
